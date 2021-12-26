@@ -1,6 +1,5 @@
 <?php
 $exp = $_GET["expression"];
-//echo $exp;
 if($exp==""){
     echo "empty input!";
 }else

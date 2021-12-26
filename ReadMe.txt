@@ -1,0 +1,1 @@
+i created a new repository as there was no way to compare the new project(calculator) and the last one(wikipedia) and merge them
