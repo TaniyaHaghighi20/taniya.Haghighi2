@@ -1,5 +1,6 @@
 <?php
 $exp = $_GET["expression"];
+//check if expression is empty
 if($exp==""){
     echo "empty input!";
 }else
@@ -27,5 +28,4 @@ if(preg_match('~^[0-9+\-*\/]+$~', $exp)){
 }
 echo "<br>";
 ?>
-
 <a href="http://localhost:8000/">Go Back</a>
